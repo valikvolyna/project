@@ -32,4 +32,5 @@ print("y = ", k, " * x + ", b)
 
 print('Привет, мир')
 print('Hello')
-string 1234
+string 12
+string 12345
