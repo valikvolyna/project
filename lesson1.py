@@ -32,3 +32,4 @@ print('Привет, мир')
 print('Hello')
 print('Изменение')
 Изменение
+last string
