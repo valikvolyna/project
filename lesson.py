@@ -6,12 +6,8 @@ a + b = c
 
 2 a + c = b
 
-<<<<<<< HEAD
 3 b + c = a
 
 4 a - b - c = 0
 
 5 a + b - c = 4
-=======
-3 b + c = a
->>>>>>> parent of 0ab37ad (new commit)
