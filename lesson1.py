@@ -31,5 +31,5 @@ print("y = ", k, " * x + ", b)
 print('Привет, мир')
 print('Hello')
 print('Изменение')
-Изменение
+Изменение  номер один
 last string
